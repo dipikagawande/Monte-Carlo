@@ -1,2 +1,2 @@
 # Monte-Carlo
-Simulating a sample using Metropolis-Hastings and MCMC. Coded using base R and RJAGS.
+Simulating samples using Metropolis-Hastings and MCMC. Coded using base R and RJAGS.
